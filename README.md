@@ -52,27 +52,6 @@ Power plants like NTPC Tanda generate large amounts of operational data. Traditi
 
 ---
 
-## 📂 How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/energy-data-analysis.git
-```
-
-2. Install required libraries:
-
-   ```bash
-   pip install streamlit pandas plotly statsmodels
-   ```
-3. Run the Streamlit app:
-
-   ```bash
-   streamlit run dashboard.py
-   ```
-4. Upload the dataset and start exploring the insights!
-
----
-
 ## 📄 License
 
 This project is for educational purposes and personal use.
